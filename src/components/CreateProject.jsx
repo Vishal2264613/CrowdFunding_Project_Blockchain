@@ -129,6 +129,7 @@ const CreateProject = () => {
               type="date"
               name="date"
               placeholder="Expires"
+              min={"2023-04-21"}
               onChange={(e) => setDate(e.target.value)}
               value={date}
               required
