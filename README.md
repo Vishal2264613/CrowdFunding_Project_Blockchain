@@ -14,33 +14,26 @@ The architecture of our project below: -
 
 There are some screenshots of what we have made: -
 
+<center><figcaption>Add Project</figcaption></center>
 ![Genesis Project](./screenshots/AddProject_SS.png)
 
-<center><figcaption>Add Project</figcaption></center>
-
+<center><figcaption>Delete Project</figcaption></center>
 ![Genesis Project](./screenshots/DeleteProject_SS.png)
 
-<center><figcaption>Delete Project</figcaption></center>
-
+<center><figcaption>Donations for Project</figcaption></center>
 ![Genesis Project](./screenshots/Donations_SS.png)
 
-<center><figcaption>Donations for Project</figcaption></center>
-
+<center><figcaption>Edit Project</figcaption></center>
 ![Genesis Project](./screenshots/EditProject_SS.png)
 
-<center><figcaption>Edit Project</figcaption></center>
-
+<center><figcaption>Project Interface</figcaption></center>
 ![Genesis Project](./screenshots/Interface_SS.png)
 
-<center><figcaption>Project Interface</figcaption></center>
-
+<center><figcaption>Pay Fund For Project Project</figcaption></center>
 ![Genesis Project](./screenshots/PayFund_SS.png)
 
-<center><figcaption>Pay Fund For Project Project</figcaption></center>
-
-![Genesis Project](./screenshots/ProjectDescription_SS.png)
-
 <center><figcaption>Project Description</figcaption></center>
+![Genesis Project](./screenshots/ProjectDescription_SS.png)
 
 ## Technology
 
@@ -95,9 +88,9 @@ To run the demo follow these steps:
 
 Made by: -
 
-Name - NISCHAY CHIB
+Name - NISCHAY CHIB</br>
 Student Id - 101427909
 
 </br>
-Name - VISHAL PAWAR
+Name - VISHAL PAWAR</br>
 Student Id - 101378105
