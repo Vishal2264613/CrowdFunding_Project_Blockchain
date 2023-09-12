@@ -93,11 +93,3 @@ To run the demo follow these steps:
 - 👀 [EthersJs](https://docs.ethers.io/v5/)
 - 🎅 [Faucet](https://faucets.chain.link/rinkeby)
 
-Made by: -
-
-Name - NISCHAY CHIB</br>
-Student Id - 101427909
-
-</br>
-Name - VISHAL PAWAR</br>
-Student Id - 101378105
